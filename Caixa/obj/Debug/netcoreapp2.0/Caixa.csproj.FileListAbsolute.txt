@@ -1,0 +1,10 @@
+C:\Users\paulo.rflima1\Lógica\Caixa\bin\Debug\netcoreapp2.0\Caixa.deps.json
+C:\Users\paulo.rflima1\Lógica\Caixa\bin\Debug\netcoreapp2.0\Caixa.runtimeconfig.json
+C:\Users\paulo.rflima1\Lógica\Caixa\bin\Debug\netcoreapp2.0\Caixa.runtimeconfig.dev.json
+C:\Users\paulo.rflima1\Lógica\Caixa\bin\Debug\netcoreapp2.0\Caixa.dll
+C:\Users\paulo.rflima1\Lógica\Caixa\bin\Debug\netcoreapp2.0\Caixa.pdb
+C:\Users\paulo.rflima1\Lógica\Caixa\obj\Debug\netcoreapp2.0\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\Caixa\obj\Debug\netcoreapp2.0\Caixa.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\Caixa\obj\Debug\netcoreapp2.0\Caixa.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\Caixa\obj\Debug\netcoreapp2.0\Caixa.dll
+C:\Users\paulo.rflima1\Lógica\Caixa\obj\Debug\netcoreapp2.0\Caixa.pdb

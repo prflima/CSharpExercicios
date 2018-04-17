@@ -1,0 +1,10 @@
+C:\Users\paulo.rflima1\Lógica\FirstProject\bin\Debug\netcoreapp2.0\FirstProject.deps.json
+C:\Users\paulo.rflima1\Lógica\FirstProject\bin\Debug\netcoreapp2.0\FirstProject.runtimeconfig.json
+C:\Users\paulo.rflima1\Lógica\FirstProject\bin\Debug\netcoreapp2.0\FirstProject.runtimeconfig.dev.json
+C:\Users\paulo.rflima1\Lógica\FirstProject\bin\Debug\netcoreapp2.0\FirstProject.dll
+C:\Users\paulo.rflima1\Lógica\FirstProject\bin\Debug\netcoreapp2.0\FirstProject.pdb
+C:\Users\paulo.rflima1\Lógica\FirstProject\obj\Debug\netcoreapp2.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\FirstProject\obj\Debug\netcoreapp2.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\FirstProject\obj\Debug\netcoreapp2.0\FirstProject.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\FirstProject\obj\Debug\netcoreapp2.0\FirstProject.dll
+C:\Users\paulo.rflima1\Lógica\FirstProject\obj\Debug\netcoreapp2.0\FirstProject.pdb
