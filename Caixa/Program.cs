@@ -36,6 +36,7 @@ namespace Caixa
             arquivo.WriteLine("O preço á vista do produto é "+precoFinal);
             arquivo.WriteLine("O valor de desconto ou acréscimo é "+resultado);
             arquivo.WriteLine("O preço final do produto é "+precoFinal);
+            arquivo.Close();
 
             Console.WriteLine("O produto escolhido foi: "+produto);
             Console.WriteLine("O preço á vista do produto é "+precoFinal);

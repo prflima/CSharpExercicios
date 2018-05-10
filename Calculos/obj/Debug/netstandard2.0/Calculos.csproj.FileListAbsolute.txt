@@ -1,0 +1,8 @@
+C:\Users\paulo.rflima1\Lógica\Calculos\bin\Debug\netstandard2.0\Calculos.deps.json
+C:\Users\paulo.rflima1\Lógica\Calculos\bin\Debug\netstandard2.0\Calculos.dll
+C:\Users\paulo.rflima1\Lógica\Calculos\bin\Debug\netstandard2.0\Calculos.pdb
+C:\Users\paulo.rflima1\Lógica\Calculos\obj\Debug\netstandard2.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\Calculos\obj\Debug\netstandard2.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\Calculos\obj\Debug\netstandard2.0\Calculos.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\Calculos\obj\Debug\netstandard2.0\Calculos.dll
+C:\Users\paulo.rflima1\Lógica\Calculos\obj\Debug\netstandard2.0\Calculos.pdb

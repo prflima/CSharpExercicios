@@ -1,0 +1,13 @@
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\usandoCalculos.deps.json
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\usandoCalculos.runtimeconfig.json
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\usandoCalculos.runtimeconfig.dev.json
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\usandoCalculos.dll
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\usandoCalculos.pdb
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\Calculos.dll
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\bin\Debug\netcoreapp2.0\Calculos.pdb
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\obj\Debug\netcoreapp2.0\usandoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\obj\Debug\netcoreapp2.0\usandoCalculos.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\obj\Debug\netcoreapp2.0\usandoCalculos.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\obj\Debug\netcoreapp2.0\usandoCalculos.csproj.CopyComplete
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\obj\Debug\netcoreapp2.0\usandoCalculos.dll
+C:\Users\paulo.rflima1\Lógica\usandoCalculos\obj\Debug\netcoreapp2.0\usandoCalculos.pdb
