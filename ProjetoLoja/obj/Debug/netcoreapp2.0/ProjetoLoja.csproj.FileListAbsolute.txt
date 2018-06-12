@@ -1,0 +1,11 @@
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\bin\Debug\netcoreapp2.0\ProjetoLoja.deps.json
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\bin\Debug\netcoreapp2.0\ProjetoLoja.runtimeconfig.json
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\bin\Debug\netcoreapp2.0\ProjetoLoja.runtimeconfig.dev.json
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\bin\Debug\netcoreapp2.0\ProjetoLoja.dll
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\bin\Debug\netcoreapp2.0\ProjetoLoja.pdb
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\obj\Debug\netcoreapp2.0\ProjetoLoja.csprojResolveAssemblyReference.cache
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\obj\Debug\netcoreapp2.0\ProjetoLoja.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\obj\Debug\netcoreapp2.0\ProjetoLoja.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\obj\Debug\netcoreapp2.0\ProjetoLoja.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\obj\Debug\netcoreapp2.0\ProjetoLoja.dll
+C:\Users\paulo.rflima1\Lógica\ProjetoLoja\obj\Debug\netcoreapp2.0\ProjetoLoja.pdb

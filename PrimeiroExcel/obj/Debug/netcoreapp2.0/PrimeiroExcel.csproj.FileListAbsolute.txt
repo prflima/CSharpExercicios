@@ -1,0 +1,11 @@
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\bin\Debug\netcoreapp2.0\PrimeiroExcel.deps.json
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\bin\Debug\netcoreapp2.0\PrimeiroExcel.runtimeconfig.json
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\bin\Debug\netcoreapp2.0\PrimeiroExcel.runtimeconfig.dev.json
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\bin\Debug\netcoreapp2.0\PrimeiroExcel.dll
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\bin\Debug\netcoreapp2.0\PrimeiroExcel.pdb
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\obj\Debug\netcoreapp2.0\PrimeiroExcel.csprojResolveAssemblyReference.cache
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\obj\Debug\netcoreapp2.0\PrimeiroExcel.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\obj\Debug\netcoreapp2.0\PrimeiroExcel.AssemblyInfoInputs.cache
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\obj\Debug\netcoreapp2.0\PrimeiroExcel.AssemblyInfo.cs
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\obj\Debug\netcoreapp2.0\PrimeiroExcel.dll
+C:\Users\paulo.rflima1\Lógica\PrimeiroExcel\obj\Debug\netcoreapp2.0\PrimeiroExcel.pdb
